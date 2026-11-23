@@ -40,7 +40,6 @@ Transformar dados brutos de vendas em um painel visual, claro e interativo, que 
 
 ```
 ├── dashboard.pbix      # Arquivo do Power BI
-├── dashboard.png       # Print do dashboard
 └── README.md
 ```
 
