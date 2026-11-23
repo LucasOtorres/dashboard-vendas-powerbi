@@ -2,8 +2,6 @@
 
 Dashboard interativo de vendas desenvolvido no **Power BI**, com indicadores gerais, análise temporal e comparativos por gênero, marca e região.
 
-![Prévia do dashboard](dashboard.png)
-
 ## 🎯 Objetivo
 
 Transformar dados brutos de vendas em um painel visual, claro e interativo, que ajude a responder perguntas de negócio como:
